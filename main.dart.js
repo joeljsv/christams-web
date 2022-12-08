@@ -37230,7 +37230,7 @@ j=j.ax
 j.toString
 j=j?"Update Profile!":"Complete Profile!"
 l=t.p
-return A.HX(B.fy,A.k_(B.bq,A.a([new A.r8(q,k),new A.e2(B.cK,k,k,A.eW(A.ur(A.a([p,o,B.dB,n,B.dD,A.agh(A.eW(A.cx(j,k,k,k,A.bB(k,k,20,B.a6,k),B.J,k),k,s.a.a*0.4),new A.Y1(a),m),B.dD,A.cx("Draw will be carried out in",k,k,k,A.bB(B.k,k,20,k,2),B.J,k),B.dB,new A.xV(r,50,50,A.bB(B.j,k,30,k,k),k),B.dD,A.cx("Made with \u2764\ufe0f by GREG",k,k,k,A.bB(B.k,k,13,k,2),B.J,k)],l),B.aO,B.be,B.bW),q,k),k)],l),B.bl),k)}}
+return A.HX(B.fy,A.k_(B.bq,A.a([new A.r8(q,k),new A.e2(B.cK,k,k,A.eW(A.ur(A.a([p,o,B.dB,n,B.dD,A.agh(A.eW(A.cx(j,k,k,k,A.bB(k,k,15,B.a6,k),B.J,k),k,s.a.a*0.4),new A.Y1(a),m),B.dD,A.cx("Draw will be carried out in",k,k,k,A.bB(B.k,k,20,k,2),B.J,k),B.dB,new A.xV(r,50,50,A.bB(B.j,k,30,k,k),k),B.dD,A.cx("Made with \u2764\ufe0f by GREG",k,k,k,A.bB(B.k,k,13,k,2),B.J,k)],l),B.aO,B.be,B.bW),q,k),k)],l),B.bl),k)}}
 A.Y1.prototype={
 $0(){var s=A.pQ(new A.Y0(),null,t.z)
 A.eT(this.a,!1).li(s)},
