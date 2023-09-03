@@ -3,6 +3,7 @@
 // found in the LICENSE file.
 
 /**
+
  * This script installs service_worker.js to provide PWA functionality to
  *     application. For more information, see:
  *     https://developers.google.com/web/fundamentals/primers/service-workers
